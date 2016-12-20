@@ -1,0 +1,359 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canais,",>>>>>>> SOPOTI IPTV <<<<<<<
+http://sopoti.comeze.com/logo/SOPOTI+ANOME-1.avi
+#EXTINF:-1 group-title="Canais",TOP Channel HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/2.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais",KLAN HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/4.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais",VIZION PLUS HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/100.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais",VIZION PLUS
+http://live.tvmak.com/tv1/vizionplus.m3u8
+#EXTINF:-1 group-title="Canais,",TVSH
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/3.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",PLUS HD
+http://ip.shqiptv.us/live/plustv/index.m3u8
+#EXTINF:-1 group-title="Canais",TOP NEWS
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/109.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ORA NEWS
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/108.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",NEWS 24
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/106.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ABC NEWS
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/107.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",A1 REPORT
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/104.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",KANALI 7 NEWS
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/105.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM NJE
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/68.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM KOMEDI
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/82.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM HITS
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/74.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM DY
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/70.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM DRAME
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/78.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM AUTOR
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/76.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FILM AKSION
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/80.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",THRILER
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/72.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",T
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/66.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",EXPLORER SHKENCA
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/144.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",EXPLORER NATYRA
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/146.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",CUFO
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/90.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",BANG BANG
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/92.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",CARTON NETWORK
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/96.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",BBF MUSIC
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/128.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING WORLD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/140.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING PLANET
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/138.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING HISTORI
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/142.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING TRING SD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/87.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING SUPER
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/59.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING SHQIP
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/49.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING MAX
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/57.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING FANTASY
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/55.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING COMEDY
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/53.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING 3 Plus
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/51.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",Stinet
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/65.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",Alsat M
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/8.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ALB HUMOR
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/85.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ALB HITS
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/123.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ALB FILM
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/84.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ALB UK HD
+http://188.138.17.8:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canais,",ALB MUSIC HD
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canais,",ALB MOUVES HD
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canais,",TIP TV
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/95.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",RTV 21
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/7.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",RTK
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/1.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",KTV
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/6.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",Klan TV
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/4.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",Klan Kosova
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/5.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",JOLLY HQ
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/61.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",FOLK
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/121.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TV SYRI VIZION
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/23.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SuperSport Kosova 2
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/11.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SuperSport Kosova 1
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/10.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 1 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/153.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 2 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/154.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 3 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/155.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 4 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/156.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 1
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/157.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 2
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/158.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 3
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2cale/159.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SUPER SPORT 4
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/160.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING SPORT 4 HQ
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/216.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING SPORT 3 HQ
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/215.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING SPORT 2 HQ
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/214.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",TRING SPORT 1
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/152.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",>>>>>>>>>SS server 2<<<<<<<<<<<
+http://185.59.220.134/ss1sd/mpegts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SS1
+http://185.59.220.134/ss1sd/mpegts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SS2
+http://185.59.220.134/ss2sd/mpegts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SS3
+http://185.59.220.134/ss3sd/mpegts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SS4
+http://185.59.220.134/ss4sd/mpegts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",EURO SPORT
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/177.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SKY SPORT DE 2 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/168.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",SKY SPORT DE 1 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/167.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ARENA SPORT 4 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/201.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ARENA SPORT 3 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/200.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ARENA SPORT 2 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/199.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",ARENA SPORT 1 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/198.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",BEIN 2 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/173.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais,",BEIN 1 HD
+http://163.172.218.107:8181/live/iosandroid/c9c660ee2c/172.ts|User-agent=www.ontv.al/iptv
+#EXTINF:-1 group-title="Canais",SUPERSPORT 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title="Canais",SUPERSPORT 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 group-title="Canais",SUPERSPORT 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 group-title="Canais",SUPERSPORT4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 group-title="Canais",TV SHENJA
+http://live.tvmak.com/tv1/tvshenja.m3u8
+#EXTINF:-1 group-title="Canais",ALSAT-M
+http://live.tvmak.com/tv1/alsatm.m3u8
+#EXTINF:-1 group-title="Canais",TV 21 - Maqedoni
+http://live.tvmak.com/tv2/tv21.m3u8
+#EXTINF:-1 group-title="Canais",Vizion Plus
+http://live.tvmak.com/tv1/vizionplus.m3u8
+#EXTINF:-1 group-title="Canais",RTK 1
+http://live.tvmak.com/tv2/rtk1.m3u8
+#EXTINF:-1 group-title="Canais",MRT 2
+http://live.tvmak.com/tv2/mrt2.m3u8
+#EXTINF:-1 group-title="Canais",RTK 3
+http://live.tvmak.com/tv2/rtk3.m3u8
+#EXTINF:-1 group-title="Canais",Zico Tv
+http://live.tvmak.com/tv1/zicotv.m3u8
+#EXTINF:-1 group-title="Canais",TV Diaspora
+http://live.tvmak.com/tv1/diasporatv.m3u8
+#EXTINF:-1 group-title="Canais",Tv ERA
+http://live.tvmak.com/tv2/tvera.m3u8
+#EXTINF:-1 group-title="Canais",AlbFilm 1
+http://live.tvmak.com/tv1/albfilmtv1.m3u8
+#EXTINF:-1 group-title="Canais",Shqip Geneva Tv
+http://live.tvmak.com/tv1/tvgeneva.m3u8
+#EXTINF:-1 group-title="Canais",ALB FILM 2
+http://live.tvmak.com/tv2/albfilmtv2.m3u8
+#EXTINF:-1 group-title="Canais",Tv Koha
+http://live.tvmak.com/tv2/tvkoha.m3u8
+#EXTINF:-1 group-title="Canais",Drita TV
+http://live.tvmak.com/tv1/dritatv.m3u8
+#EXTINF:-1 group-title="Canais",TopEstrada TV
+http://live.tvmak.com/tv2/topestradatv.m3u8
+#EXTINF:-1 group-title="Canais",Star Plus Tv
+http://live.tvmak.com/tv1/starplus.m3u8
+#EXTINF:-1 group-title="Canais",TV Opoja
+http://live.tvmak.com/tv2/tvopoja.m3u8
+#EXTINF:-1 group-title="Canais",Alpo Media
+http://live.tvmak.com/tv2/alpomedia.m3u8
+#EXTINF:-1 group-title="Canais",Dasma Tv
+http://live.tvmak.com/tv1/dasmatv.m3u8
+#EXTINF:-1 group-title="Canais",TV2
+http://live.tvmak.com/tv2/tv2gv.m3u8
+#EXTINF:-1 group-title="Canais",Tv Dukagjini
+http://live.tvmak.com/tv2/dukagjini.m3u8
+#EXTINF:-1 group-title="Canais",Rrokum Tv
+http://live.tvmak.com/tv1/rrokumtv.m3u8
+#EXTINF:-1 group-title="Canais",TV Apollon
+http://live.tvmak.com/tv1/tvapollon.m3u8
+#EXTINF:-1 group-title="Canais",Tv Kopliku
+http://live.tvmak.com/tv2/tvkopliku.m3u8
+#EXTINF:-1 group-title="Canais",TV Besa
+http://live.tvmak.com/tv1/tvbesa.m3u8
+#EXTINF:-1 group-title="Canais",Tv Rozafa
+http://live.tvmak.com/tv1/tvrozafa.m3u8
+#EXTINF:-1 group-title="Canais",TV Kutia
+http://live.tvmak.com/tv2/kutia.m3u8
+#EXTINF:-1 group-title="Canais",Club Tv
+http://live.tvmak.com/tv1/clubtv.m3u8
+#EXTINF:-1 group-title="Canais",Channel 7
+http://live.tvmak.com/tv1/channel7.m3u8
+#EXTINF:-1 group-title="Canais",TV Globi
+http://live.tvmak.com/tv2/tvglobi.m3u8
+#EXTINF:-1 group-title="Canais",Syri Vision
+http://live.tvmak.com/tv2/syrivision.m3u8
+#EXTINF:-1 group-title="Canais",SCAN Tv
+http://live.tvmak.com/tv1/rtvscan.m3u8
+#EXTINF:-1 group-title="Canais",TV Gurra
+http://live.tvmak.com/tv2/tvgurra.m3u8
+#EXTINF:-1 group-title="Canais",Zjarr Tv
+http://live.tvmak.com/tv2/zjarrtv.m3u8
+#EXTINF:-1 group-title="Canais",Tv Opinion
+http://live.tvmak.com/tv1/tvopinion.m3u8
+#EXTINF:-1 group-title="Canais",Tv Kontakt
+http://live.tvmak.com/tv1/tvkontakt.m3u8
+#EXTINF:-1 group-title="Canais",Rtv Adrianet
+http://live.tvmak.com/tv2/adrianet.m3u8
+#EXTINF:-1 group-title="Canais",Tv Kombi
+http://live.tvmak.com/tv1/tvkombi.m3u8
+#EXTINF:-1 group-title="Canais",Click Channel
+http://live.tvmak.com/tv2/clickchannel.m3u8
+#EXTINF:-1 group-title="Canais",Tv1 Channel
+http://live.tvmak.com/tv1/tv1channel.m3u8
+#EXTINF:-1 group-title="Canais",Tv Elbasani
+http://live.tvmak.com/tv2/tvelbasani.m3u8
+#EXTINF:-1 group-title="Canais",Lexo TV
+http://live.tvmak.com/tv2/lexo.m3u8
+#EXTINF:-1 group-title="Canais",RTV Islam
+http://live.tvmak.com/tv2/rtvislam.m3u8
+#EXTINF:-1 group-title="Canais",TV Suno
+http://live.tvmak.com/tv2/tvsuno.m3u8
+#EXTINF:-1 group-title="Canais",TV Tetova
+http://live.tvmak.com/tv2/tvtetova.m3u8
+#EXTINF:-1 group-title="Canais",3Plus HD
+http://live.tvmak.com/tv2/3plushd.m3u8
+#EXTINF:-1 group-title="Canais",AA NEW YORK TV
+http://live.tvmak.com/tv1/usa.m3u8
+#EXTINF:-1 group-title="shqip",TOP CHANNEL
+http://ott.digitalb.tv/Tch/Tch.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",KLAN HD
+http://ott.digitalb.tv/KlanTV/KlanTV.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Alsat M
+http://fms.zulu.mk:554/zulu//playlist.m3u8
+#EXTINF:-1 group-title="shqip",Bang Bang
+http://ott.digitalb.tv/BangBang/BangBang.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",City TV
+http://ott.digitalb.tv/CityTV/CityTV.isml/Playlist.m3u8
+#EXTINF:-1 group-title="shqip",Cufo
+http://ott.digitalb.tv/CufoTV/CufoTV.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",EXP-Histori
+http://ott.digitalb.tv/ExpHistori/ExpHistori.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",EXP-Natyre
+http://ott.digitalb.tv/ExpNatyra/ExpNatyra.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",EXP-Shkenc
+http://ott.digitalb.tv/ExpShkence/ExpShkence.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Era Tv
+http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
+#EXTINF:-1 group-title="shqip",EuroSport AL
+http://ott.digitalb.tv/EuroSport/EuroSport.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Film Aksion
+http://ott.digitalb.tv/Film-Aksion/Film-Aksion.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Film Dy HD
+http://ott.digitalb.tv/FilmDyHD/FilmDyHD.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Film Nje HD
+http://ott.digitalb.tv/FilmNjeHD/FilmNjeHD.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",KLAN HD#FALAS#IPTVSHQIP
+http://ott.digitalb.tv/KlanTV/KlanTV.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",KOPLIKU
+http://sak101.fastbroad.com/i/tvkopliku_ams226p1_1@359586/index_1200_av-p.m3u8?sd=10&amp%3Brebase=on
+#EXTINF:-1 group-title="shqip",Klan Kosova
+http://ott.digitalb.tv/KlanKosova/KlanKosova.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Klan TV
+http://ott.digitalb.tv/KlanTV/KlanTV.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",MTV Live AL
+http://ott.digitalb.tv/MTV-Live/MTV-Live.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Mad TV AL
+http://ott.digitalb.tv/MadTV/MadTV.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",MusicAL
+http://ott.digitalb.tv/musicAL/musicAL.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",My Music AL
+http://ott.digitalb.tv/MyMusic/MyMusic.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",News24 AL
+http://ott.digitalb.tv/News-24/News-24.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Ora News AL
+http://ott.digitalb.tv/OraNews/OraNews.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",RTV21 POPULLORE
+http://5.135.92.130:5000/out/u/aUAS7yDYAahq42aUD9PaFWg.m3u8
+#EXTINF:-1 group-title="shqip",Report TV AL
+http://ott.digitalb.tv/ReportTV/ReportTV.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",SuperSonic AL
+http://ott.digitalb.tv/SuperSonic/SuperSonic.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",T-HD
+http://ott.digitalb.tv/T-HD/T-HD.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",TRING FANTASY
+http://5.135.92.130:4000/out/u/tr!ngfantaz!a.m3u8
+#EXTINF:-1 group-title="shqip",TRING HISTORI
+http://5.135.92.130:4000/out/u/tr!nghistorija.m3u8
+#EXTINF:-1 group-title="shqip",TRING PLANET
+http://5.135.92.130:4000/out/u/tr!ngplanet!.m3u8
+#EXTINF:-1 group-title="shqip",TRING SHQIP
+http://5.135.92.130:5000/out/u/oEGEHXtnRbwuHizAbqGppUn.m3u8
+#EXTINF:-1 group-title="shqip",TRING SMILE
+http://5.135.92.130:4000/out/u/sm!lebuzeqesh.m3u8
+#EXTINF:-1 group-title="shqip",TRING WORLD
+http://5.135.92.130:4000/out/u/tr!ngworldid0c.m3u8
+#EXTINF:-1 group-title="shqip",TVSH
+http://ott.digitalb.tv/TVSH/TVSH.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Top Channel
+http://ott.digitaldb.tv/Tch/Tch.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Top News
+http://ott.digitalb.tv/Top-News/Top-News.isml/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Tv Gurra
+http://iphone-streaming.ustream.tv/uhls/18868686/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="shqip",Vizion Plus
+http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8
+#EXTINF:-1 group-title="sport",SuperSport 1
+http://ott.digitalb.tv/SS1/SS1.isml/playlist.m3u8
+#EXTINF:-1 group-title="sport",SuperSport 2
+http://ott.digitalb.tv/SS2/SS2.isml/playlist.m3u8
+#EXTINF:-1 group-title="sport",SuperSport 3
+http://ott.digitalb.tv/SS3/SS3.isml/playlist.m3u8
+#EXTINF:-1 group-title="sport",SuperSport 4
+http://ott.digitalb.tv/SS4/SS4.isml/playlist.m3u8
+#EXTINF:-1 group-title="sport",SuperSport 5
+http://ott.digitalb.tv/SS5/SS5.isml/playlist.m3u8
